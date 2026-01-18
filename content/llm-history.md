@@ -13,3 +13,5 @@ title: Generative AI History
 > [!info] 2020: GPT-3
 > **The Scale:** 175B parameters. Few-shot learning emerging.
 > **Impact:** AI 开始展现出通用的文本生成能力。
+
+test
